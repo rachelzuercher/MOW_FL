@@ -2,7 +2,7 @@
 
 This repository includes data and analysis scripts for the following article:
 
-Zuercher, R., R. Brumbaugh, K. Freeman, R. Layko, D. Kochan, A. Harborne. Identifying the drivers of coral reef biomass in the Florida Keys to assess potential conservation actions. *In prep.*
+Zuercher, R., R. Brumbaugh, K. Freeman, R. Layko, D. Kochan, A. Harborne. Identifying the drivers of coral reef biomass in the Florida Keys to assess potential management actions. *In prep.*
 
 ---
 ## Collaborators:
