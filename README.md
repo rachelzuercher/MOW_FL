@@ -6,6 +6,8 @@ Zuercher, R., R. Brumbaugh, K. Freeman, R. Layko, D. Kochan, A. Harborne. Identi
 
 ---
 ## Collaborators:
+This project is a collaboration between Alastair Harborne's Tropical Fish Ecology Lab (tfel) at Florida International University (FIU) and The Nature Conservancy (TNC). 
+
 *Rachel Zuercher (Florida International University; National Socio-Environmental Synthesis Center)*    
 *Alastair Harborne (Florida International University)*    
 *Rob Brumbaugh (The Nature Conservancy)*    
