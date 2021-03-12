@@ -23,4 +23,6 @@ Coral reef ecosystems and the services that we derive from them are in decline g
 
 --- 
 ## In the repository:
-[to add soon]
+'MOW_FL_3.2021.R' script - 
+
+The analyses can be replicated by changing the working directory in the .R to the location on your computer where you have stored the .R and .csv files from the data folder. Questions about the code should be directed to RZ (rachel.zuercher@gmail.com).
