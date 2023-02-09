@@ -1,8 +1,8 @@
-## Identifying the drivers of coral reef biomass in the Florida Keys to assess potential conservation actions
+## Identifying correlates of coral-reef fish biomass on Florida's Coral Reef to assess potential management actions
 
 This repository includes data and analysis scripts for the following article:
 
-Zuercher, R., R. Brumbaugh, K. Freeman, R. Layko, D. Kochan, A. Harborne. 2021. Identifying the drivers of coral reef biomass in the Florida Keys to assess potential management actions. *In press at Aquatic Conservation*
+Zuercher, R., R. Brumbaugh, K. Freeman, R. Layko, D. Kochan, A. Harborne. 2023. Identifying correlates of coral-reef fish biomass on Florida's Coral Reef to assess potential management actions. *In press at Aquatic Conservation*
 
 ---
 ## Collaborators:
@@ -32,12 +32,12 @@ Four .csv files and one .R script are needed to replicate these analyses.
 
 `RVC_impact.csv` -- data file containing each Reef Visual Census survey site used in the fishing impact model (rows), the snapper-grouper biomass for each site (column), and all explanatory variables considered for the fishing impact model (columns)
 
-`ReefPoints_impact.csv` -- data file contained every 1 ha reef pixel included in the project (rows) and all significant corresponding explanatory variables for the fishing impact model
+`ReefPoints_impact.csv` -- data file containing every 1 ha reef pixel included in the project (rows) and all significant corresponding explanatory variables for the fishing impact model
 
 `RVC_biomass.csv` -- data file containing each Reef Visual Census survey site used in the fish biomass models (rows), biomass of all species groups (columns), and all explanatory variables considered for the biomass models, including fishing impact estimated by this project and extrapolated to these sites in ArcGIS (columns)
 
 `ReefPoints_biomass.csv` -- data file contained every 1 ha reef pixel included in the project (rows) and all significant corresponding explanatory variables for the biomass models
 
-`MOW_FL_3.2021.R` script -- runs all analyses and creates plots for Zuercher et al. 2021
+`MOW_FL_3.2021.R` script -- runs all analyses and creates plots for Zuercher et al. 2023
 
 The analyses can be replicated by changing the working directory in `MOW_FL_3.2021.R` to the location on your computer where you have stored the .R and .csv files. Additional analyses for this project were conducted in ArcGIS Pro. Spatial data layers are housed privately, but can be requested for the purpose of replication or for additional research. Questions about the code and requests for spatial data layers should be directed to Rachel Zuercher (rachel.zuercher@gmail.com).
